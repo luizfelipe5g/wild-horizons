@@ -1,0 +1,20 @@
+{
+  "name": "wild-horizons",
+  "version": "1.0.0",
+  "description": "API de lugares turísticos ao redor do mundo",
+  "homepage": "https://github.com/luizfelipe5g/wild-horizons#readme",
+  "bugs": {
+    "url": "https://github.com/luizfelipe5g/wild-horizons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizfelipe5g/wild-horizons.git"
+  },
+  "license": "ISC",
+  "author": "Luiz Felipe",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
