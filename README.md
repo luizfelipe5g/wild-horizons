@@ -77,7 +77,7 @@ http://localhost:8000/api
 
 ---
 
-### Implementação
+### Em Implementação
 
 | Método | Endpoint | Status | Descrição |
 |--------|----------|--------|-----------|
