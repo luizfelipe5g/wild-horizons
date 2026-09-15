@@ -77,13 +77,6 @@ http://localhost:8000/api
 
 ---
 
-### Em Implementação
-
-| Método | Endpoint | Status | Descrição |
-|--------|----------|--------|-----------|
-| `POST` | `progresso` | Em progresso | Permite buscar por palavra chave **na descrição** de um local turístico |
-
 ## Contato
-Dúvidas e solicitações de melhoria podem ser enviadas para:
 
-luiz.felipe.s@protonmail.com
+Dúvidas e solicitações de melhoria podem ser enviadas para luiz.felipe.s@protonmail.com, ou fique a vontade para fazer um **Pull Request**.
